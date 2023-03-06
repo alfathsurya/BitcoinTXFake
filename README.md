@@ -3,9 +3,9 @@
 This tool is a Python script that generates a fake Bitcoin transaction to a recipient address. It uses the Bitcoinlib library to create the transaction and broadcast it to the Bitcoin network. This tool is intended for educational and testing purposes only and should not be used for illegal activities.
 
 ## Requirements
-- NodeJs to generate peivkey and address
+- NodeJs to generate privkey and address
 - Python 3.x
-- Bitcoinlib library (installation command: pip install bitcoinlib)
+- Bitcoinlib library (installation command: pip install bitcoinlib, to install numpy, need numpy==1.22.1)
 
 ## Usage
 - Open the script in a text editor
