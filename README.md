@@ -3,6 +3,7 @@
 This tool is a Python script that generates a fake Bitcoin transaction to a recipient address. It uses the Bitcoinlib library to create the transaction and broadcast it to the Bitcoin network. This tool is intended for educational and testing purposes only and should not be used for illegal activities.
 
 ## Requirements
+- NodeJs to generate peivkey and address
 - Python 3.x
 - Bitcoinlib library (installation command: pip install bitcoinlib)
 
@@ -22,6 +23,7 @@ This tool is a Python script that generates a fake Bitcoin transaction to a reci
 Cet outil est un script Python qui génère une fausse transaction Bitcoin vers une adresse de destinataire. Il utilise la bibliothèque Bitcoinlib pour créer la transaction et la diffuser sur le réseau Bitcoin. Cet outil est destiné à des fins éducatives et de test uniquement et ne doit pas être utilisé à des fins illégales.
 
 ## Exigences
+- NodeJs
 - Python 3.x
 - Bibliothèque Bitcoinlib (commande d'installation : pip install bitcoinlib)
 
